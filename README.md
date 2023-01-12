@@ -11,7 +11,7 @@ My First Repository
   
 ![The 100](https://ntvb.tmsimg.com/assets/p18078200_b_h8_ae.jpg?w=1280&h=720)
   
-2. **The Hunger Games**  (*All movie series*)
+2. **The Hunger Games**   (*All movie series*)
 
   Is a science fiction dystopian adventure films. Wherein in a City of Panem it holds 12 districs and select a boy and a girl,  
   
